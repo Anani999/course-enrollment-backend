@@ -1,6 +1,7 @@
 # Overview
     ExpressJs Backend server for course enrollment service with features like starting course , validating text files and issueing certificates, with multiple authentication methods, and using llama3 model to validate answers, and a system where only accessing next video in the course after only completing the present video and submitting the answer based on the question for each video.
     Using Nodejs and ExpressJs framework designed this project from the scratch with maneagable folder structure like model view controller etc., and serving the startic files using express.static , 
+    I have also created and integrated a frontend which you can access at https://github.com/Anani999/course-enrollment-frontend
 
 # Features/About
     1. This backend uses NodeJs with ExpressJs Backend framwork,
